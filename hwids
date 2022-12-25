@@ -1,3 +1,4 @@
-return {
-"fc3c1abe930a133f86479d22cf36c9369ef6545b89f344a808f8fe074535954c881c79501a36b5fc4278f0a3c3bcb3b96524033ad6f1981a9f42df76dd155124";
-}
+local whitelists = {
+  [1] = "4158237173"
+ }
+return whitelists
